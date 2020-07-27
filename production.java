@@ -1,2 +1,1 @@
-This is production file
-Line is added for git log testing
+This is production file 
